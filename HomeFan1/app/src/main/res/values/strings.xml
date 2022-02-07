@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeFan1</string>
+    <string name="nama">speed controller</string>
+    <string name="kecepatan">speed</string>
+    <string name="cahaya">LIGHTS</string>
+    <string name="TOGGLEBUTTON">OFF</string>
+</resources>
